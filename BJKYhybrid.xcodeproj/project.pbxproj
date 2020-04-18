@@ -49,6 +49,7 @@
 		9E14E42C244B55A200B0FDF8 /* BJKYhybridUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BJKYhybridUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E14E430244B55A200B0FDF8 /* BJKYhybridUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BJKYhybridUITests.swift; sourceTree = "<group>"; };
 		9E14E432244B55A200B0FDF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E14E43E244B570300B0FDF8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				9E14E419244B55A100B0FDF8 /* LaunchScreen.storyboard */,
 				9E14E41C244B55A100B0FDF8 /* Info.plist */,
 				9E14E416244B55A100B0FDF8 /* Preview Content */,
+				9E14E43E244B570300B0FDF8 /* README.md */,
 			);
 			path = BJKYhybrid;
 			sourceTree = "<group>";
